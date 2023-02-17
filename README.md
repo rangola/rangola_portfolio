@@ -12,7 +12,7 @@ Portfolio build using Next js, Three js, and Framer Motion
 
 ## Live Preview
 
-[Demo]()
+[Demo](rangola-portfolio.vercel.app)
 
 ## Build Setup
 
